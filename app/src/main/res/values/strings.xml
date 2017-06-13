@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Media Player</string>
+    <string name="notification_title">\"Music is playing\"</string>
+    <string name="notification_message">Music is playing in background</string>
+</resources>
